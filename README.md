@@ -1,7 +1,5 @@
 ### Hello Folks, I'm Musfick Jamil <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<br />
-
 ## I am a Software Engineer
 
 - 🔭 I am currently working on my upcoming Start-Up
