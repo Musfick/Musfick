@@ -1,9 +1,5 @@
 ### Hello Folks, I'm Musfick Jamil <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-## I am a Software Engineer
-
-- 🔭 I am currently working on my upcoming Start-Up
-- 🌱 I’m currently learning everything 🤣
 - 💬 Ask me about ... Mobile Application Development
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
@@ -24,14 +20,6 @@
 </a>
 
 <br />
-<br />
-
-### Languages and Tools:
-
-[<img align="left" alt="Android Studio" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />] [webdevplaylist]
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
-
 <br />
 
 ---
