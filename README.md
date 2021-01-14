@@ -1,6 +1,6 @@
 ### Hello Folks, I'm Musfick Jamil <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-- 💬 Typing Speed 70(WPM)
+- 💬 Touch Typing Speed 70(WPM)
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: Don't Talk about Crush I only Know About App Crash
