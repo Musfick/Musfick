@@ -1,4 +1,4 @@
-### Hello Folks, I'm Musfick Jamil <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hello Folks, I'm Musfick Jamil
 
 - 🏨 Currently a Mobile Application Developer at Ezze Technology Limited.
 - 💬 Touch Typing Speed 70(WPM)
