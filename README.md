@@ -1,7 +1,7 @@
 ### Hello Folks, I'm Musfick Jamil
 
 - 🏨 Currently a Mobile Application Developer at Ezze Technology Limited.
-- 💬 Touch Typing Speed 70(WPM)
+- 💬 Touch Typing Speed ~70(WPM)
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: Don't Talk about Crush I only Know About App Crash
