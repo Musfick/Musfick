@@ -1,9 +1,9 @@
 ### Hello Folks, I'm Musfick Jamil
 
-- 🏨 Currently a Mobile Application Developer at Ezze Technology Limited.
+- 🏨 Currently a App Developer(Android & iOS) at Bondstein Technologies Limited.
 - 💬 Touch Typing Speed ~70(WPM)
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: Don't Talk about Crush I only Know About App Crash
 - https://www.urionlinejudge.com.br/judge/en/profile/448083
 
