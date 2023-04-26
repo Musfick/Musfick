@@ -19,7 +19,7 @@ Linkedin
 <br />
 
 ### My Fortress
-<img src="my_personal_work_space.jpg" width="432" height="576"/>
+<img src="my_personal_work_space.jpeg" width="432" height="576"/>
 
 ### Github Stats:
 
