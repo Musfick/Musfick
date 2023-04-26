@@ -9,22 +9,17 @@
 
 <br />
 
+
 ### Connect with me:
-
 <a href="https://www.linkedin.com/in/musfick-jamil-126305189">
-  <img align="left" alt="Nitin Prakash | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://facebook.com/musfick.jamil.1">
-  <img align="left" alt="Nitin Prakash | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<a href="https://www.instagram.com/musfick.jamil">
-  <img align="left" alt="Nitin Prakash | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+Linkedin
 </a>
 
 <br />
 <br />
 
----
+### My Fortress
+<img src="my_personal_work_space.jpg" width="432" height="576"/>
 
 ### Github Stats:
 
