@@ -1,13 +1,4 @@
-### Hello Folks, I'm Musfick Jamil
-
-- 🏨 Currently a App Developer(Android & iOS) at Bondstein Technologies Limited.
-- 💬 Touch Typing Speed ~70(WPM)
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: Don't Talk about Crush I only Know About App Crash
-- https://www.urionlinejudge.com.br/judge/en/profile/448083
-
-<br />
+![Android](https://media.giphy.com/media/f6Q1EjYSrpnxwQsX0b/giphy.gif)
 
 
 ### Connect with me:
@@ -20,9 +11,5 @@ Linkedin
 
 ### My Fortress
 <img src="my_personal_work_space.jpeg" width="432" height="576"/>
-
-### Github Stats:
-
-![Musfick’s github stats](https://github-readme-stats.vercel.app/api?username=Musfick&show_icons=true&theme=dark)
 
 <br/>
